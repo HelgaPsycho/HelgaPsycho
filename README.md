@@ -1,7 +1,9 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="200"/>
 </div>
 
+<div class = "text">
 <div id="badges" align="center">
   <a href="https://github.com/HelgaPsycho" >
     <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -71,3 +73,7 @@
     <li>Роберт Мартин "Читый код. Создание, анализ, рефакторинг" </li>
     <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
   </ul>
+  </div>
+
+
+  
