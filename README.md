@@ -45,12 +45,24 @@
      </ul>
 </div>
 <div id = "coursesHead" align = "center">
-     <h4>
+     <h4> 💻 Courses 💻
      </h4>
 </div>
 <div id="courses" align = "start">
   <ul> 
-    <li = ddfsg>
-    <li=dbks>
+    <li> <a href="https://www.udemy.com/course/ios-start-zero-to-one-swift">Maksym Husar "IOS Start: Путь с 0 до 1 (swift)"</a></li>
+    <li>  <a href= "https://www.udemy.com/course/ios-13-app-development-bootcamp"> AppBrewery (Angela yu) "IOS & Swift - The Complete IOS App Development Bootcamp" "</a></li>
   </ul>
  </div>
+ <br>
+<div id = "booksReadHead" align = "center">
+     <h4> 📖 Books read 📖
+     </h4>
+</div>
+<div id ="booksRead" align = "start">
+  <ul>
+    <li>Чарльз Петцольд "Код. Тайный язык информатики</li>
+    <li>Роберт Мартин "Идеальный программист. Как стать профессионалос разработки ПО"</li>
+    <li>Адитья Бхаргава "Грокаем алгоритмы"</li>
+    <li>Роберт Мартин "Читый код. Создание, анализ, рефакторинг" </li>
+  </ul>
