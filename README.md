@@ -14,6 +14,10 @@
   <a href="https://leetcode.com/HelgaPsycho/" >
     <img src="https://img.shields.io/badge/leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+  </a> 
+  <a href="https://join.skype.com/invite/eIRMEiXX8Hmt" >
+    <img src="https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+  </a>
 </div>
 <div id="aboutMeHead" align = "center">
   <h4> <b> ✨ About me ✨
