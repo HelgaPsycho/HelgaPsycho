@@ -18,7 +18,7 @@
   <a href="https://join.skype.com/invite/eIRMEiXX8Hmt" >
     <img src="https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
-  <a href="mailto:vlad@webref.ru">  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:hardcorecase@gmail.com">  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 <div id="aboutMeHead" align = "center">
