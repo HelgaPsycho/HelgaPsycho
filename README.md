@@ -13,9 +13,16 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
 </div>
-
-<div id="info" align = "start">
+<div id="aboutMeHead" align = "center">
+  <h4> <b> ✨ About me ✨
+    </b>
+  </h4>
+</div>
+<div id="aboutMe" align = "start">
   <p> 
+  <pre>      My name is Olga. I am a IOS-develoder 👩🏼‍💻 from Saint - Petersburg, Russia.
+      I like 🍏 products, their aesthetics and functionality. 
+      Now I looking for an intership or a work as a junior developer 🔍. </pre>
   </p>
 </div>
 
