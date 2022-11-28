@@ -26,6 +26,7 @@
   </p>
 </div>
 <br>
+
 <div id = "skillsHead" align = "center">
    <h4> <b> 💪🏻 My skills 💪🏻
     </b>
@@ -44,6 +45,7 @@
       <li> Cocoapods,  Swift Package Manager</li>
      </ul>
 </div>
+<hr  color="grey">
 <div id = "coursesHead" align = "center">
      <h4> 💻 Courses 💻
      </h4>
@@ -52,17 +54,20 @@
   <ul> 
     <li> <a href="https://www.udemy.com/course/ios-start-zero-to-one-swift">Maksym Husar "IOS Start: Путь с 0 до 1 (swift)"</a></li>
     <li>  <a href= "https://www.udemy.com/course/ios-13-app-development-bootcamp"> AppBrewery (Angela yu) "IOS & Swift - The Complete IOS App Development Bootcamp" "</a></li>
+    <li> <a href="https://swiftbook.ru/content/languageguide/"> SwiftBook - руководство swift</a></li>
   </ul>
  </div>
- <br>
+<hr  color="grey">
+
 <div id = "booksReadHead" align = "center">
      <h4> 📖 Books read 📖
      </h4>
 </div>
 <div id ="booksRead" align = "start">
   <ul>
-    <li>Чарльз Петцольд "Код. Тайный язык информатики</li>
-    <li>Роберт Мартин "Идеальный программист. Как стать профессионалос разработки ПО"</li>
-    <li>Адитья Бхаргава "Грокаем алгоритмы"</li>
+    <li>✔️ Чарльз Петцольд "Код. Тайный язык информатики"</li>
+    <li>✔️ Роберт Мартин "Идеальный программист. Как стать профессионалос разработки ПО"</li>
+    <li>✔️ Адитья Бхаргава "Грокаем алгоритмы"</li>
     <li>Роберт Мартин "Читый код. Создание, анализ, рефакторинг" </li>
+    <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
   </ul>
