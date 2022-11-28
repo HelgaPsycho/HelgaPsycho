@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif" width="300"/>
 </div>
 
 <div class = "text">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.instagram.com/helga_psycho">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/instagram-green?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.t.me/HelgaPsycho">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -45,7 +45,6 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
       <li> Cocoapods,  Swift Package Manager</li>
      </ul>
 </div>
-<hr  color="grey">
 <div id = "coursesHead" align = "center">
      <h4> 💻 Courses 💻
      </h4>
@@ -57,7 +56,6 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
     <li> <a href="https://swiftbook.ru/content/languageguide/"> SwiftBook - руководство swift</a></li>
   </ul>
  </div>
-<hr  color="grey">
 
 <div id = "booksReadHead" align = "center">
      <h4> 📖 Books read 📖
@@ -72,6 +70,8 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
     <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
   </ul>
   </div>
-
+<div id="bottom" align="center">
+  <img src="https://media.tenor.com/Feak9bJBY_oAAAAC/lua-luaph.gif.gif" width="300"/>
+</div>
 
   
