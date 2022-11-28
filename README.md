@@ -5,15 +5,15 @@
 
 <div class = "text">
 <div id="badges" align="center">
-  <a href="https://github.com/HelgaPsycho" >
-    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
   <a href="https://www.instagram.com/helga_psycho">
     <img src="https://img.shields.io/badge/instagram-green?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.t.me/HelgaPsycho">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
+  <a href="https://leetcode.com/HelgaPsycho/" >
+    <img src="https://img.shields.io/badge/leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
 </div>
 <div id="aboutMeHead" align = "center">
   <h4> <b> ✨ About me ✨
