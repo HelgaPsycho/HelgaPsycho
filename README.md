@@ -79,7 +79,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
   
  
 <div id="bottom" align="center">
-  <img src="https://media.giphy.com/media/cjbfyJrICOaKIXBWyG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/VeT5jhseHD0W3dI7de/giphy.gif" width="300"/>
 </div>
 
   
