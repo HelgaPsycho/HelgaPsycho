@@ -3,15 +3,20 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-twitter-URL" >
+  <a href="https://github.com/HelgaPsycho" >
     <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="your-instagrame-URL">
+  <a href="https://www.instagram.com/helga_psycho">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.t.me/HelgaPsycho">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
+</div>
+
+<div id="info" align = "start">
+  <p> 
+  </p>
 </div>
 
 <div id="logo" align = "start">
