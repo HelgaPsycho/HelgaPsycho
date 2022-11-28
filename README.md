@@ -25,8 +25,12 @@
       Now I looking for an intership or a work as a junior developer 🔍. </pre>
   </p>
 </div>
-
-<div id="logo" align = "start">
+<br>
+<div id = "coursesHead" align = "start"
+     <h4>
+     </h4>
+</div>
+<div id="courses" align = "start">
   <ul> 
     <li = ddfsg>
     <li=dbks>
