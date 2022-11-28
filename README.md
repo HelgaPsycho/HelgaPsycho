@@ -76,8 +76,10 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
     <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
   </ul>
   </div>
+  
+ 
 <div id="bottom" align="center">
-  <img src="https://media.tenor.com/Feak9bJBY_oAAAAC/lua-luaph.gif.gif" width="300"/>
+  <img src="https://media.giphy.com/media/cjbfyJrICOaKIXBWyG/giphy.gif" width="300"/>
 </div>
 
   
