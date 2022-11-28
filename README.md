@@ -22,9 +22,9 @@
 </div>
 <div id="aboutMe" align = "start">
   <p> 
-  <pre>      My name is Olga. I am a IOS-develoder 👩🏼‍💻 from Saint - Petersburg, Russia.
-      I like 🍏 products, their aesthetics and functionality. 
-      Now I looking for an intership or a work as a junior developer 🔍. </pre>
+  <pre> My name is Olga. I am a IOS-develoder 👩🏼‍💻 from Saint - Petersburg, Russia.
+I like 🍏 products, their aesthetics and functionality. 
+Now I looking for an intership or a work as a junior developer 🔍. </pre>
   </p>
 </div>
 <div id = "skillsHead" align = "center">
