@@ -70,7 +70,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
 <div id ="booksRead" align = "start">
   <ul>
     <li>✔️ Чарльз Петцольд "Код. Тайный язык информатики" 👍🏻</li>
-    <li>✔️ Роберт Мартин "Идеальный программист. Как стать профессионалос разработки ПО"</li>
+    <li>✔️ Роберт Мартин "Идеальный программист. Как стать профессионалом разработки ПО"</li>
     <li>✔️ Адитья Бхаргава "Грокаем алгоритмы" 🔥🔥🔥</li>
     <li>Роберт Мартин "Читый код. Создание, анализ, рефакторинг" </li>
     <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
@@ -82,4 +82,28 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
   <img src="https://media.giphy.com/media/VeT5jhseHD0W3dI7de/giphy.gif" width="300"/>
 </div>
 
-  
+<div id = "SoursesByTopicHead" align = "center">
+     <h4> 🗂 Useful Sourses by Topics 🗂
+     </h4>
+</div>
+<div id= "ResoursesByTopics" align = "start">
+  <h4 align = "center"> 📒 Swift
+  </h4>
+   <a href="https://docs.swift.org/swift-book/"> 📎 The swift programming language. 
+Swift 5.7</a> &nbsp; 
+  <a href="https://swiftbook.ru/content/languageguide/basics/">  📎 swiftbook.ru </a> 
+   <h4 align = "center"> 📒 Data Structures & Algoritms
+  </h4>
+   <a href="https://habr.com/ru/post/310794/">  📎 Статья с Хабр: "Структуры данных для самых маленьких" </a> 
+   <a href="https://www.labirint.ru/books/571060/">  📎 Книга "Грокаем алгоритмы" Адитья Бхаргава  </a> &nbsp; 
+ <br>
+   <a href="https://www.kodeco.com/books/data-structures-algorithms-in-swift">  📎 Book "Data Structures & Algorithms in Swift" By Vincent Ngo & Kelvin Lau.</a> &nbsp;
+</div>
+ <h4 align = "center"> 📒 Git
+  </h4>
+<a href="https://learngitbranching.js.org/?locale=ru_RU">  📎Тренажер LearnGitBranching на русском языке </a> &nbsp;
+<a href="https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow">  📎 GitFlow </a> &nbsp;
+   <h4 align = "center"> 📒 Design Patterns</h4>
+  <a href=https://refactoring.guru/design-patterns>  📎 refactoring.guru - паттерны программирования и рефакторинг, сайт доступен через VPN  </a> &nbsp;
+
+
