@@ -58,7 +58,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
 <div id="courses" align = "start">
   <ul> 
     <li> <a href="https://www.udemy.com/course/ios-start-zero-to-one-swift">Maksym Husar "IOS Start: Путь с 0 до 1 (swift)"</a></li>
-    <li>  <a href= "https://www.udemy.com/course/ios-13-app-development-bootcamp"> AppBrewery (Angela yu) "IOS & Swift - The Complete IOS App Development Bootcamp" "</a></li>
+    <li>  <a href= "https://www.udemy.com/course/ios-13-app-development-bootcamp"> AppBrewery (Angela Yu) "IOS & Swift - The Complete IOS App Development Bootcamp" </a></li>
     <li> <a href="https://swiftbook.ru/content/languageguide/"> SwiftBook - руководство swift</a></li>
   </ul>
  </div>
