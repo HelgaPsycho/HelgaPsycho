@@ -98,12 +98,13 @@ Swift 5.7</a> &nbsp;
    <a href="https://www.labirint.ru/books/571060/">  📎 Книга "Грокаем алгоритмы" Адитья Бхаргава  </a> &nbsp; 
  <br>
    <a href="https://www.kodeco.com/books/data-structures-algorithms-in-swift">  📎 Book "Data Structures & Algorithms in Swift" By Vincent Ngo & Kelvin Lau.</a> &nbsp;
-</div>
  <h4 align = "center"> 📒 Git
   </h4>
 <a href="https://learngitbranching.js.org/?locale=ru_RU">  📎Тренажер LearnGitBranching на русском языке </a> &nbsp;
 <a href="https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow">  📎 GitFlow </a> &nbsp;
    <h4 align = "center"> 📒 Design Patterns</h4>
   <a href=https://refactoring.guru/design-patterns>  📎 refactoring.guru - паттерны программирования и рефакторинг, сайт доступен через VPN  </a> &nbsp;
-
+ <h4 align = "center"> 📒 Work with UI </h4>
+   <a href="https://stevenpcurtis.medium.com/create-an-image-carousel-using-swift-baa0583764f8">  📎 Steven Curtis "Create an Image Carousel Using Swift"  </a> &nbsp;
+  </div>
 
