@@ -107,5 +107,7 @@ Swift 5.7</a> &nbsp;
  <h4 align = "center"> 📒 Work with UI </h4>
    <a href="https://stevenpcurtis.medium.com/create-an-image-carousel-using-swift-baa0583764f8">  📎 Steven Curtis "Create an Image Carousel Using Swift"  </a> &nbsp;
     <a href="https://medium.com/@max.codes/programmatic-custom-collectionview-cell-subclass-in-swift-5-xcode-10-291f8d41fdb1">  📎 Medium, Max Nelson: "Programmatic Custom CollectionView Cell Subclass in Swift 5 & Xcode 10" </a> &nbsp;
+   <a href="https://jayeshkawli.ghost.io/tutorial-creating-programmatic-uicollectionview-in-swift/">  📎 
+Jayesh Kawli "Tutorial - Creating Programmatic UICollectionView in Swift" </a> &nbsp;
   </div>
 
