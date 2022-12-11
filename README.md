@@ -103,7 +103,11 @@ Swift 5.7</a> &nbsp;
 <a href="https://learngitbranching.js.org/?locale=ru_RU">  📎Тренажер LearnGitBranching на русском языке </a> &nbsp;
 <a href="https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow">  📎 GitFlow </a> &nbsp;
    <h4 align = "center"> 📒 Design Patterns</h4>
-  <a href=https://refactoring.guru/design-patterns>  📎 refactoring.guru - паттерны программирования и рефакторинг, сайт доступен через VPN  </a> &nbsp;
+  <a href="https://refactoring.guru/design-patterns">  📎 refactoring.guru - паттерны программирования и рефакторинг, сайт доступен через VPN  </a> &nbsp;
+   <a href="https://saad-eloulladi.medium.com/ios-coordinator-pattern-in-swift-39a15aa3b01b">  📎Medium, Saad El Oulladi "iOS : Coordinator pattern in Swift"  </a> &nbsp;
+  <h4 align = "center"> 📒 Work with x-code </h4>
+  <a href="https://sarunw.com/posts/how-to-create-new-xcode-project-without-storyboard/">  
+📎 sarunw.com "How to create a new Xcode project without Storyboard" </a> &nbsp;
  <h4 align = "center"> 📒 Work with UI </h4>
    <a href="https://stevenpcurtis.medium.com/create-an-image-carousel-using-swift-baa0583764f8">  📎 Steven Curtis "Create an Image Carousel Using Swift"  </a> &nbsp;
     <a href="https://medium.com/@max.codes/programmatic-custom-collectionview-cell-subclass-in-swift-5-xcode-10-291f8d41fdb1">  📎 Medium, Max Nelson: "Programmatic Custom CollectionView Cell Subclass in Swift 5 & Xcode 10" </a> &nbsp;
