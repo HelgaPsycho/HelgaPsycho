@@ -74,6 +74,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
     <li>✔️ Адитья Бхаргава "Грокаем алгоритмы" 🔥🔥🔥</li>
     <li>Роберт Мартин "Читый код. Создание, анализ, рефакторинг" </li>
     <li>Kelvin Lau & Vincent Ngo "Data Structures & Algoritms" </li>
+     <li> Develop in Swift Fundanentals </li>
   </ul>
   </div>
   
