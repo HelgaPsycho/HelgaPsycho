@@ -51,6 +51,18 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
       <li> Cocoapods,  Swift Package Manager</li>
      </ul>
 </div>
+<div id = "projects" align = "center">
+   <h4> <b>  🖥 My projects with actual skills 🖥
+    </b>
+  </h4>
+</div>
+<div id = "skillsHead" align = "start"
+     <ul>
+   <li> <a href="https://github.com/HelgaPsycho/Notes"> "Notes" - App with editing notes </a></li>
+    <li>  <a href= "https://github.com/HelgaPsycho/TechShopTestProj"> Online store project </a></li>
+     <li>  <a href= "https://github.com/HelgaPsycho/MigraineDiary"> "Migrain Diary" - IOS application for users suffering from migraine. It helps doctors to observe course of disease and choose a treatment </a></li>
+     </ul>
+</div>
 <div id = "coursesHead" align = "center">
      <h4> 💻 Courses 💻
      </h4>
