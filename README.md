@@ -41,10 +41,10 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
 <div id = "skillsHead" align = "start"
      <ul>
       <li> Swift </li> 
+       <li> Foundation, UIKit </li>
       <li> Object-oriented programming  </li>
       <li> Data Structures & Algoritms
       <li> Storyboard, Autolayout, UIKIT </li>
-      <li> Multiscreen Apps </li>
       <li> Programm interface building </li>
       <li> GitHub </li>
       <li> CoreData </li>
