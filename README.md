@@ -49,6 +49,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
       <li> GitHub </li>
       <li> CoreData </li>
       <li> Cocoapods,  Swift Package Manager</li>
+       <li> FireBase (Cloud FireStore, Authentication)</li>
      </ul>
 </div>
 <div id = "projects" align = "center">
