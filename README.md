@@ -34,7 +34,7 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
   </p>
 </div>
 <div id = "skillsHead" align = "center">
-   <h4> <b> 💪🏻 My skills 💪🏻
+   <h4> <b> 💪🏻 My hardskills 💪🏻
     </b>
   </h4>
 </div>
