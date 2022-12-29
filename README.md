@@ -47,6 +47,8 @@ Now I looking for an intership or a work as a junior developer 🔍. </pre>
       <li> Storyboard, Autolayout, UIKIT </li>
       <li> Programm interface building </li>
       <li> GitHub </li>
+      <li> GCD </li>
+      <li> URLSession, JSON API </li>
       <li> CoreData </li>
       <li> Cocoapods,  Swift Package Manager</li>
        <li> FireBase (Cloud FireStore, Authentication)</li>
